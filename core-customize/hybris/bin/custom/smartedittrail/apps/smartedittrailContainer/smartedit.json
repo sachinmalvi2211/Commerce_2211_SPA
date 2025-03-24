@@ -1,0 +1,8 @@
+{
+    "name": "smartedittrailcontainer",
+    "extension": {
+        "type": "container",
+        "angularApp": "smartedittrailContainer",
+        "seEntryModule": "SmartedittrailContainerModule"
+    }
+}

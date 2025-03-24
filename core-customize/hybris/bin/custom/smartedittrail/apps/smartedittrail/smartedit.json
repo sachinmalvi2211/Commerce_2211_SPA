@@ -1,0 +1,8 @@
+{
+    "name": "smartedittrail",
+    "extension": {
+        "type": "inner",
+        "angularApp": "smartedittrail",
+        "seEntryModule": "SmartedittrailModule"
+    }
+}
