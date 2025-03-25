@@ -50,6 +50,14 @@
 		{
 		 "key": "initialpassword.admin",
             "value": "nimda"
+		},
+		{
+			"key":"npmancillary.rush.build.dev.mode",
+			"value":"true"
+		},
+		{
+			"key":"npmancillary.package.manager.loglevel",
+			"value":"verbose"
 		}
     ],
     "storefrontAddons": [
