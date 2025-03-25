@@ -312,9 +312,11 @@
 <extension dir="${HYBRIS_BIN_DIR}/custom/myproject/myprojectstorefront"/>
 <extension dir="${HYBRIS_BIN_DIR}/custom/myprojectb2bstorefront"/>
 <extension dir="spartacussampledata"/>
-<extension name="smartedittrail" />
 
 <!-- 
+<extension name="smartedittrail" />
+
+
 <extension dir="${HYBRIS_BIN_DIR}/custom/myproject/myprojecttest"/>
 -->
 
